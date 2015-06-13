@@ -1,6 +1,6 @@
 package com.technowizx.firstmod;
 
-import com.technowizx.firstmod.configuration.ConfigurationHandler;
+import com.technowizx.firstmod.handler.ConfigurationHandler;
 import com.technowizx.firstmod.proxy.IProxy;
 import com.technowizx.firstmod.reference.Reference;
 import cpw.mods.fml.common.Mod;

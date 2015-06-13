@@ -1,5 +1,6 @@
 package com.technowizx.firstmod;
 
+import com.technowizx.firstmod.configuration.ConfigurationHandler;
 import com.technowizx.firstmod.proxy.IProxy;
 import com.technowizx.firstmod.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -18,8 +19,9 @@ public class FirstMod
     public static IProxy proxy;
 
     @Mod.EventHandler
-    public void preInit(FMLPreInitializationEvent event){
-
+    public void preInit(FMLPreInitializationEvent event)
+    {
+        ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler

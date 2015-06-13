@@ -1,33 +1,9 @@
-[18:15:47] [main/INFO]: Setting user: Player526
-[18:15:50] [Client thread/INFO]: LWJGL Version: 2.9.1
-[18:15:51] [Client thread/ERROR]: Couldn't initialize twitch stream
-[18:16:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
-[18:16:06] [Sound Library Loader/INFO]: Sound engine started
-[18:16:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:16:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:16:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
-[18:16:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:16:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:16:09] [Sound Library Loader/INFO]: Sound engine started
-[18:16:23] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[18:16:23] [Server thread/INFO]: Generating keypair
-[18:16:24] [Server thread/INFO]: Preparing start region for level 0
-[18:16:25] [Server thread/INFO]: Preparing spawn area: 49%
-[18:16:26] [Server thread/INFO]: Changing view distance to 4, from 10
-[18:16:27] [Server thread/INFO]: Player526[local:E:3a88147e] logged in with entity id 0 at (-961.7425752682773, 57.015555072702206, -748.9040095469813)
-[18:16:27] [Server thread/INFO]: Player526 joined the game
-[18:16:28] [Server thread/INFO]: Saving and pausing game...
-[18:16:28] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
-[18:16:28] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
-[18:16:28] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
-[18:16:31] [Server thread/INFO]: Saving and pausing game...
-[18:16:31] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
-[18:16:31] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
-[18:16:31] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
-[18:16:32] [Server thread/INFO]: Stopping server
-[18:16:32] [Server thread/INFO]: Saving players
-[18:16:32] [Server thread/INFO]: Saving worlds
-[18:16:32] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
-[18:16:32] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
-[18:16:32] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
-[18:16:33] [Client thread/INFO]: Stopping!
+[18:55:26] [main/INFO]: Setting user: Player665
+[18:55:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:55:30] [Client thread/ERROR]: Couldn't initialize twitch stream
+[18:55:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[18:55:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:55:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:55:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[18:55:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:55:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas

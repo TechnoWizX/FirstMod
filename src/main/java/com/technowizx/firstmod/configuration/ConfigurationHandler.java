@@ -28,6 +28,6 @@ public class ConfigurationHandler
             configuration.save();
         }
 
-        System.out.println(configValue);
+        //System.out.println("Configuration Test: " + configValue);
     }
 }

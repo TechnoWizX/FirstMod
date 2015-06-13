@@ -14,7 +14,7 @@ public class FirstMod
     @Mod.Instance(Reference.MOD_ID)
     public static FirstMod instance;
 
-    @SidedProxy(clientSide = "com.technowizx.firstmod.proxy.ClientProxy", serverSide = "com.technowizx.firstmod.proxy.ServerProxy")
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
     public static IProxy proxy;
 
     @Mod.EventHandler

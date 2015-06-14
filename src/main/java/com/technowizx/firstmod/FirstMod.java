@@ -1,6 +1,7 @@
 package com.technowizx.firstmod;
 
 import com.technowizx.firstmod.handler.ConfigurationHandler;
+import com.technowizx.firstmod.init.ModBlocks;
 import com.technowizx.firstmod.init.ModItems;
 import com.technowizx.firstmod.proxy.IProxy;
 import com.technowizx.firstmod.reference.Reference;
@@ -25,6 +26,7 @@ public class FirstMod
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         ModItems.init();
+        ModBlocks.init();
 
         LogHelper.info("Pre Initialization Complete");
     }

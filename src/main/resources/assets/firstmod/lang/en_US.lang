@@ -1,3 +1,6 @@
 #Item Localizations
 item.firstmod:mapleLeaf.name=Maple Leaf
 item.firstmod:mapleLeafPurple.name=Purple Maple Leaf
+
+#Block Localizations
+tile.firstmod:purple.name=Block of Purpleness

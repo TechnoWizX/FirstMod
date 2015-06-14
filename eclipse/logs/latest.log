@@ -1,0 +1,32 @@
+[10:58:32] [main/INFO]: Setting user: Player846
+[10:58:34] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:58:35] [Client thread/ERROR]: Couldn't initialize twitch stream
+[10:58:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[10:58:46] [Sound Library Loader/INFO]: Sound engine started
+[10:58:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:58:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:58:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[10:58:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:58:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:58:49] [Sound Library Loader/INFO]: Sound engine started
+[10:58:53] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:58:53] [Server thread/INFO]: Generating keypair
+[10:58:53] [Server thread/INFO]: Preparing start region for level 0
+[10:58:54] [Server thread/INFO]: Changing view distance to 16, from 10
+[10:58:55] [Server thread/INFO]: Player846[local:E:5bfe61da] logged in with entity id 0 at (-1632.5, 1.0, -1012.5)
+[10:58:55] [Server thread/INFO]: Player846 joined the game
+[10:59:08] [Server thread/INFO]: Saving and pausing game...
+[10:59:08] [Server thread/INFO]: Saving chunks for level 'Purple'/Overworld
+[10:59:08] [Server thread/INFO]: Saving chunks for level 'Purple'/Nether
+[10:59:08] [Server thread/INFO]: Saving chunks for level 'Purple'/The End
+[10:59:20] [Server thread/INFO]: Saving and pausing game...
+[10:59:20] [Server thread/INFO]: Saving chunks for level 'Purple'/Overworld
+[10:59:20] [Server thread/INFO]: Saving chunks for level 'Purple'/Nether
+[10:59:20] [Server thread/INFO]: Saving chunks for level 'Purple'/The End
+[10:59:20] [Server thread/INFO]: Stopping server
+[10:59:20] [Server thread/INFO]: Saving players
+[10:59:20] [Server thread/INFO]: Saving worlds
+[10:59:20] [Server thread/INFO]: Saving chunks for level 'Purple'/Overworld
+[10:59:20] [Server thread/INFO]: Saving chunks for level 'Purple'/Nether
+[10:59:20] [Server thread/INFO]: Saving chunks for level 'Purple'/The End
+[10:59:23] [Client thread/INFO]: Stopping!
